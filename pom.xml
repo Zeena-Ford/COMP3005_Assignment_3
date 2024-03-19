@@ -1,5 +1,6 @@
 // The following XML notation presents the dependencies derived from the psqlJDBC installation - MAVEN in JAVA. 
 
+
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -23,7 +24,6 @@
             <version>42.7.3</version>
         </dependency>
     </dependencies>
-
 
 
 </project>
